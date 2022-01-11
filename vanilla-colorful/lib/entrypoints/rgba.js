@@ -1,0 +1,1 @@
+/*3 ./vanilla-colorful/0.6.2/lib/entrypoints/rgba.js */export * from "../../0.6.2/lib/entrypoints/rgba.js";

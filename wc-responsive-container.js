@@ -1,0 +1,2 @@
+/*-https://unpkg.com/wc-responsive-container@^1.3.5?module redirected to https://unpkg.com/wc-responsive-container@1.3.5/wc-responsive-container.js?module
+		*/ export * from "./wc-responsive-container/1.3.5/wc-responsive-container.js";

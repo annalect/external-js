@@ -1,0 +1,2 @@
+/*-https://unpkg.com/wc-responsive-grid@3.1.0?module redirected to https://unpkg.com/wc-responsive-grid@3.1.0/wc-responsive-grid.js?module
+		*/ import "./wc-responsive-grid/3.1.0/wc-responsive-grid.js";
