@@ -1,0 +1,27 @@
+<!doctype html>
+<html><head>
+<title>static js dependencies</title>
+<style>
+
+</style>
+</head><body>
+
+<external-js>external js files</external-js>
+<script type="module">
+import { ReactiveElement, LitElement, html, svg, css } from './lit.js';
+
+customElements.define('external-js', class extends LitElement{
+	static get styles(){
+		return css`
+			:host{display:block;}
+		`;
+	}
+	constructor(){
+		super();
+	}
+	render(){
+		return html`<pre><slot>...</slot></pre>`;
+	}
+});
+</script>
+
