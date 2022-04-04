@@ -1,2 +1,2 @@
-/*-https://unpkg.com/construct-style-sheets-polyfill@3.0.5?module redirected to https://unpkg.com/construct-style-sheets-polyfill@3.0.5/dist/adoptedStyleSheets.js?module
-		*/ import "./construct-style-sheets-polyfill/3.0.5/dist/adoptedStyleSheets.js";
+/*-https://unpkg.com/construct-style-sheets-polyfill@3.1.0?module redirected to https://unpkg.com/construct-style-sheets-polyfill@3.1.0/dist/adoptedStyleSheets.js?module
+		*/ import "./construct-style-sheets-polyfill/3.1.0/dist/adoptedStyleSheets.js";
