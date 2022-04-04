@@ -1,2 +1,2 @@
-/*-https://unpkg.com/element-internals-polyfill@0.1.51?module redirected to https://unpkg.com/element-internals-polyfill@0.1.51/dist/index.js?module
-		*/ import "./element-internals-polyfill/0.1.51/dist/index.js";
+/*-https://unpkg.com/element-internals-polyfill@1.1.2?module redirected to https://unpkg.com/element-internals-polyfill@1.1.2/dist/index.js?module
+		*/ import "./element-internals-polyfill/1.1.2/dist/index.js";
