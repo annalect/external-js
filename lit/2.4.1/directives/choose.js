@@ -1,0 +1,1 @@
+/* https://unpkg.com/lit@2.4.1/directives/choose.js?module */ export * from "../../../lit-html/2.4.0/directives/choose.js";

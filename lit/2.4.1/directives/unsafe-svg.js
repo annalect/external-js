@@ -1,0 +1,1 @@
+/* https://unpkg.com/lit@2.4.1/directives/unsafe-svg.js?module */ export * from "../../../lit-html/2.4.0/directives/unsafe-svg.js";

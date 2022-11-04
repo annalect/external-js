@@ -1,1 +1,1 @@
-/*3 ./lit-html/2.2.1/directive-helpers.js */export * from "./2.2.1/directive-helpers.js";
+/*3 ./lit-html/2.4.0/directive-helpers.js */export * from "./2.4.0/directive-helpers.js";

@@ -1,1 +1,1 @@
-/*3 ./@lit/reactive-element/1.3.1/css-tag.js */export * from "./1.3.1/css-tag.js";
+/*3 ./@lit/reactive-element/1.4.2/css-tag.js */export * from "./1.4.2/css-tag.js";
